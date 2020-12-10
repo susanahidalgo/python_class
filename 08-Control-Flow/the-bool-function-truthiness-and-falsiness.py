@@ -13,6 +13,7 @@ if "Hello":
 if "":
     print("The singer")
 
+print("--ANOTHER BOOLEANS--")
 print(bool(1))
 print(bool(0))
 print(bool(""))
@@ -40,6 +41,11 @@ print(even_or_odd(2))
 print(even_or_odd(0))
 print(even_or_odd(13))
 print(even_or_odd(9))
+
+
+
+
+
 
 print()
 
